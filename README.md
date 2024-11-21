@@ -1,6 +1,5 @@
 # Olá, meu nome é Lucas Souza! 👋
 
-- 💼 Atualmente trabalho na [VNTRX](https://vntrx.com/).
 - 🚀 Explorando novas tecnologias e avançando na carreira para me tornar um Arquiteto de Software.
 - 📚 Estudando Arquitetura de Software na Estácio e fazendo cursos na Fullcycle.
 
