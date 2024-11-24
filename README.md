@@ -1,7 +1,11 @@
 # Olá, meu nome é Lucas Souza! 👋
 
-- 🚀 Explorando novas tecnologias e avançando na carreira para me tornar um Arquiteto de Software.
-- 📚 Estudando Arquitetura de Software na Estácio e fazendo cursos na Fullcycle.
+## 🚀 Sobre mim
+
+- 💻 Atualmente atuando como Desenvolvedor na [VenturiX Solutions](https://venturix.solutions/br), contribuindo para soluções inovadoras no mercado.
+- 🎯 Meu objetivo é me tornar um Arquiteto de Software.
+- 📚 Estudando **Arquitetura de Software** na Estácio e expandindo meu conhecimento com cursos na **Fullcycle**.
+- 🌱 Sempre explorando novas tecnologias para melhorar a performance e a qualidade dos projetos em que trabalho.
 
 ## 🚀 Minhas Skills
 
