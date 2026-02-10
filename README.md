@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Atualmente atuando como Desenvolvedor na [Yduqs](https://www.yduqs.com.br/), contribuindo para soluções inovadoras no mercado.
+- 💻 Atualmente atuando como Desenvolvedor na [Venturi X](https://www.vx-technology.com/), contribuindo para soluções inovadoras no mercado.
 - 🎯 Meu objetivo é me tornar um Arquiteto de Software.
 - 🎓 Formado em Arquitetura de Software pela Estácio, com aprofundamento contínuo por meio de cursos e especializações na Fullcycle.
 - 🌱 Sempre explorando novas tecnologias para melhorar a performance e a qualidade dos projetos em que trabalho.
