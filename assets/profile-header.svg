@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Lucas Souza — Backend Developer</title>
+<desc id="desc">APIs, integrações e arquitetura de software. C# e .NET. Desenvolvendo desde 2019.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#171333"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<rect x="48" y="53" width="40" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="102" y="61" fill="#c4b5fd" font-size="15" letter-spacing="3">LUCASDEVOLPS / BACKEND DEVELOPER</text>
+<text x="48" y="144" fill="#f8fafc" font-weight="700" font-size="66">Lucas Souza</text>
+<text x="50" y="192" fill="#cbd5e1" font-size="25">APIs, integrações e arquitetura de software.</text>
+<text x="50" y="233" fill="#94a3b8" font-size="19">Do domínio à produção, com atenção a cada camada.</text>
+<rect x="50" y="277" width="105" height="36" rx="18" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".4"/>
+<text x="102" y="301" text-anchor="middle" fill="#ddd6fe" font-size="16" font-weight="700">C# / .NET</text>
+<text x="178" y="301" fill="#94a3b8" font-size="16">DESDE 2019</text>
+<g transform="translate(810 83)">
+<rect width="337" height="224" rx="16" fill="#0d1117" stroke="#334155"/>
+<path d="M0 43H337" stroke="#334155"/>
+<circle cx="23" cy="22" r="5" fill="#a78bfa"/><circle cx="42" cy="22" r="5" fill="#22d3ee"/><circle cx="61" cy="22" r="5" fill="#475569"/>
+<g font-family="monospace" font-size="17">
+<text x="23" y="80" fill="#64748b">// building with purpose</text>
+<text x="23" y="116" fill="#c4b5fd">public class <tspan fill="#67e8f9">Lucas</tspan></text>
+<text x="23" y="146" fill="#cbd5e1">{</text>
+<text x="42" y="176" fill="#cbd5e1">Focus = <tspan fill="#a5f3fc">"Backend"</tspan>;</text>
+<text x="23" y="206" fill="#cbd5e1">}</text>
+</g></g></g>
+<rect x="48" y="355" width="1104" height="2" fill="url(#accent)" opacity=".65"/>
+</svg>
